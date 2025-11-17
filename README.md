@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hello, I'm Haibo Xie!
+# 👋 Hi, I'm **Haibo Xie**
 
-** passionate Developer | Continuous Learner | Tech Enthusiast**
+**Full-Stack Developer | Open-Source Contributor | Tech Enthusiast**
 
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge)](https://your-portfolio-link)
 [![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/your-profile)
@@ -10,14 +10,16 @@
 
 </div>
 
+---
+
 ## 🚀 About Me
 
 ```javascript
 const haibo = {
   pronouns: "he" | "him",
-  code: ["JavaScript", "TypeScript", "Python", "Java"],
+  languages: ["JavaScript", "TypeScript", "Python", "Java"],
   tools: ["React", "Node.js", "Docker", "Kubernetes"],
   architecture: ["microservices", "serverless", "event-driven"],
-  passion: "Creating solutions that make life easier",
+  passion: "Building tools that make life easier",
   funFact: "I once debugged a production issue in my dreams 💭"
 };
