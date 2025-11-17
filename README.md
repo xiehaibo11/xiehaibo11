@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @xiehaibo11
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
 
-<!---
-xiehaibo11/xiehaibo11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hello, I'm Haibo Xie!
+
+** passionate Developer | Continuous Learner | Tech Enthusiast**
+
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge)](https://your-portfolio-link)
+[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/📧-Email-D14836?style=for-the-badge)](mailto:your-email@example.com)
+
+</div>
+
+## 🚀 About Me
+
+```javascript
+const haibo = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "TypeScript", "Python", "Java"],
+  tools: ["React", "Node.js", "Docker", "Kubernetes"],
+  architecture: ["microservices", "serverless", "event-driven"],
+  passion: "Creating solutions that make life easier",
+  funFact: "I once debugged a production issue in my dreams 💭"
+};
