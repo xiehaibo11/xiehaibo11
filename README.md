@@ -47,6 +47,11 @@
 
 <br><br>
 
+<!-- ====================== 🐍 贡献蛇动画（虫子在 GitHub 上游动） ====================== -->
+<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg" />
+
+<br><br>
+
 <!-- ====================== 👁 访客统计（隐约发光） ====================== -->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=your-github-username&left_color=0D1117&right_color=00E5FF" />
 
