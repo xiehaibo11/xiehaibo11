@@ -98,7 +98,7 @@ details matter
 
 <img
   width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=xiehaibo11&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&line=00D4FF&point=7C3AED&color=E5E7EB"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=xiehaibo11&theme=react-dark&height=260&bg_color=0D1117&hide_border=true&area=true&line=00D4FF&point=7C3AED&color=E5E7EB"
   alt="GitHub activity graph"
 />
 
@@ -118,15 +118,36 @@ details matter
 
 ## Trophy Wall
 
-<img
-  width="100%"
-  src="https://github-profile-trophy.vercel.app/?username=xiehaibo11&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"
-  alt="GitHub trophies"
-/>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Mobile-iOS%20%2F%20Android-00D4FF?style=for-the-badge&logo=android&logoColor=white&labelColor=0D1117" alt="Mobile badge" />
+      <br />
+      <sub>Native app delivery</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Frontend-Vue%20%2F%20TypeScript-7C3AED?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=0D1117" alt="Frontend badge" />
+      <br />
+      <sub>Interactive web UI</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Backend-API%20%2F%20Automation-00D4FF?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117" alt="Backend badge" />
+      <br />
+      <sub>Reliable services</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/AI-Tools%20Explorer-7C3AED?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117" alt="AI badge" />
+      <br />
+      <sub>Workflow acceleration</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,55:00D4FF,100:0B1026"
+  src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:7C3AED,55:00D4FF,100:0B1026"
   alt="footer wave"
 />
 
